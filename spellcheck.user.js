@@ -3,6 +3,7 @@
 // @description Recursively remove spellcheck attributes through iframes.
 // @author      Jeremy Bowers
 // @namespace   jerf
+// @include     https://matchnothing.invalid
 // @version     1.0
 // ==/UserScript==
 
